@@ -1,0 +1,142 @@
+{
+    "rev": "2-12c7a5a0bd46087eb9cc83ada5da4b56",
+    "thumbnail": {
+        "id": "c98d44eb-5976-42a1-97d6-9a5840fa9fb4",
+        "url": "/api/859f2008-a40a-4b92-afd0-24bb44d10124/delivery/v1/resources/9a069bfa086cfe1ae7c98e789fec1c58"
+    },
+    "keywords": [],
+    "kind": [],
+    "created": "2019-09-09T11:53:24.851Z",
+    "creatorId": "d22a22f7-f08f-4699-80d5-fbaf64ba013b",
+    "description": "",
+    "classification": "content",
+    "type": "Article",
+    "locale": "en",
+    "tags": [],
+    "selectedLayouts": [
+        {
+            "layout": {
+                "id": "design-article-layout"
+            }
+        }
+    ],
+    "elements": {
+        "heading": {
+            "elementType": "text",
+            "value": "Here is my Sample"
+        },
+        "author": {
+            "elementType": "text",
+            "value": "Thomas Stober"
+        },
+        "body": {
+            "values": [
+                "<p>Here is the Body Text</p>\n",
+                "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+                "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+                "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n",
+                "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n"
+            ],
+            "elementType": "formattedtext"
+        },
+        "date": {
+            "elementType": "datetime"
+        },
+        "mainImage": {
+            "elementType": "group",
+            "value": {
+                "leadImage": {
+                    "mode": "shared",
+                    "profiles": [
+                        "3428916c-b356-4b47-aeb2-5eb8e3494b00"
+                    ],
+                    "renditions": {
+                        "lead": {
+                            "source": "/delivery/v1/resources/b7e0f80752ea5bb4eeb998004a41ad36?resize=1200px:813px&crop=1200:624;0,95",
+                            "width": 1200,
+                            "height": 624,
+                            "transform": {
+                                "scale": 0.6,
+                                "crop": {
+                                    "x": 0,
+                                    "y": 95,
+                                    "width": 1200,
+                                    "height": 624
+                                }
+                            },
+                            "url": "/859f2008-a40a-4b92-afd0-24bb44d10124/dxresources/b7e0/b7e0f80752ea5bb4eeb998004a41ad36.jpg?resize=1200px%3A813px&crop=1200%3A624%3B0%2C95"
+                        },
+                        "card": {
+                            "source": "/delivery/v1/resources/b7e0f80752ea5bb4eeb998004a41ad36?resize=640px:434px&crop=640:360;0,37",
+                            "width": 640,
+                            "height": 360,
+                            "transform": {
+                                "scale": 0.32,
+                                "crop": {
+                                    "x": 0,
+                                    "y": 37,
+                                    "width": 640,
+                                    "height": 360
+                                }
+                            },
+                            "url": "/859f2008-a40a-4b92-afd0-24bb44d10124/dxresources/b7e0/b7e0f80752ea5bb4eeb998004a41ad36.jpg?resize=640px%3A434px&crop=640%3A360%3B0%2C37"
+                        },
+                        "default": {
+                            "width": 2000,
+                            "source": "/delivery/v1/resources/b7e0f80752ea5bb4eeb998004a41ad36",
+                            "height": 1355,
+                            "url": "/859f2008-a40a-4b92-afd0-24bb44d10124/dxresources/b7e0/b7e0f80752ea5bb4eeb998004a41ad36.jpg"
+                        }
+                    },
+                    "asset": {
+                        "fileName": "GettyImages-184315668.jpg",
+                        "altText": "Modern living room",
+                        "fileSize": 603434,
+                        "width": 2000,
+                        "mediaType": "image/jpeg",
+                        "id": "b437d9c3-177b-4a01-b342-75516072f298",
+                        "resourceUri": "/delivery/v1/resources/b7e0f80752ea5bb4eeb998004a41ad36",
+                        "height": 1355
+                    },
+                    "elementType": "image",
+                    "url": "/859f2008-a40a-4b92-afd0-24bb44d10124/dxresources/b7e0/b7e0f80752ea5bb4eeb998004a41ad36.jpg"
+                },
+                "leadImageCaption": {
+                    "elementType": "text",
+                    "value": "Living Room"
+                },
+                "leadImageCredit": {
+                    "elementType": "text",
+                    "value": "Shutterstock"
+                }
+            },
+            "typeRef": {
+                "id": "fe31fbf4-4bc4-4ffa-9b27-615af51d23fe"
+            }
+        }
+    },
+    "name": "Sample Article",
+    "lastModifierId": "2d89ea36-6ebb-4167-a1ec-b8a35853791e",
+    "typeId": "e3240b78-5712-42aa-9b28-99cf13b90f04",
+    "links": {
+        "thumbnail": {
+            "href": "/authoring/v1/resources/9a069bfa086cfe1ae7c98e789fec1c58"
+        },
+        "retire": {
+            "href": "/authoring/v1/changes/content/fa9519d5-0363-4b8d-8e1f-627d802c08a8/status/retire"
+        },
+        "draft": {
+            "href": "/authoring/v1/content/fa9519d5-0363-4b8d-8e1f-627d802c08a8:draft"
+        },
+        "self": {
+            "href": "/authoring/v1/content/fa9519d5-0363-4b8d-8e1f-627d802c08a8"
+        },
+        "type": {
+            "href": "/authoring/v1/types/e3240b78-5712-42aa-9b28-99cf13b90f04"
+        }
+    },
+    "id": "fa9519d5-0363-4b8d-8e1f-627d802c08a8",
+    "lastModified": "2019-11-01T19:54:44.333Z",
+    "systemModified": "2019-11-01T19:54:44.495Z",
+    "status": "ready"
+}
